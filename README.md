@@ -1,1 +1,2 @@
 # COMPILER-CONSTRUCTION
+A LL(1) Parser implemented in Python for Compiler Construction, designed to parse context-free grammars using a top-down predictive parsing approach. The project includes lexical analysis, parsing table generation, and recursive descent parsing, handling first and follow sets for efficient syntax analysis. Ideal for understanding compiler design and formal language processing.
